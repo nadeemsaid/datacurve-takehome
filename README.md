@@ -113,11 +113,3 @@ This project is a web-based code execution environment where users can write and
 - **schema.sql**
 
   SQL schema file to create the `submissions` table in the SQLite database.
-
-## Customization Notes
-
-This project is personalized for Nadeem. The frontend and backend components are designed to provide a seamless code execution experience with a focus on simplicity and usability.
-
----
-
-By following these steps and using the provided structure and code snippets, you should be able to set up and run your personalized code execution website successfully. If you encounter any issues or have questions, feel free to reach out for further assistance.
