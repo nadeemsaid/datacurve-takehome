@@ -1,0 +1,5 @@
+CREATE TABLE submissions (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    code TEXT NOT NULL,
+    output TEXT NOT NULL
+);
