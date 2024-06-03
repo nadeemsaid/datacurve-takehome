@@ -1,5 +1,5 @@
 
-# Nadeem's Code Execution Website
+# Nadeem Code Execution Website
 
 This project is a web-based code execution environment where users can write and run Python 3 code. It features a frontend built with React, TypeScript, and Tailwind CSS, and a backend powered by FastAPI. The executed code is stored in an SQLite database.
 
@@ -65,7 +65,7 @@ This project is a web-based code execution environment where users can write and
 
    ```sh
    python3 -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scriptsctivate`
+   source venv/bin/activate  # Windows --> `venv\Scriptsctivate`
    ```
 
 3. **Install the dependencies:**
